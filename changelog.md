@@ -6,6 +6,9 @@ Version 1.2.0-dev:
 * General:
   * Updated to further optimize all code.
 
+* Language and i18n:
+  * Updated translations: Japanese.
+
 * Scenarios:
   * S15 - The Crown Prince:
     * Added names to several enemy leaders.
