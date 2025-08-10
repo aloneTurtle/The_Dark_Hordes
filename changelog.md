@@ -1,8 +1,8 @@
 The Dark Hordes - Changelog
 ===========================
 
-Version 1.2.0-dev:
-------------------
+Version 1.2.1:
+--------------
 * General:
   * Updated to further optimize all code.
 
