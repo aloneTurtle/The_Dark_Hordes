@@ -6,6 +6,19 @@ Version 1.2.1-dev:
 * General:
   * Started supporting Wesnoth 1.19.
   * Fixed the total number of scenarios in the description.
+  * Fixed all wording to "Grey" Woods.
+
+* Language and i18n:
+  * Updated translations: Japanese.
+
+* Scenarios:
+  * S1 - A New Chance:
+    * Added first-time recruit help for Rogue Mage.
+  * S6 - Crelanu's Book:
+    * Removed some opening prose because too long.
+    * Added book item image.
+  * S9 - Underground River:
+    * Added an objective note regarding the drowning of living units.
 
 
 Version 1.2.1:
