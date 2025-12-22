@@ -14,8 +14,12 @@ Copyright (C) 2025 by Tsunami_
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-sa/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
  * images/portraits/gwiti-deathmaster.png
+ * images/portraits/gwiti-demilich.png
+ * images/portraits/gwiti-dread-lich.png
  * images/portraits/gwiti-initiate.png
  * images/portraits/nati-deathmaster.png
+ * images/portraits/nati-demilich.png
+ * images/portraits/nati-dread-lich.png
 
 After the Storm Art (CC BY-NC-ND 4.0)
 -------------------------------------
