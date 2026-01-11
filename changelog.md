@@ -11,14 +11,31 @@ Version 1.2.1-dev:
 * Language and i18n:
   * Updated translations: Japanese.
 
+* Graphics:
+  * New portraits: Tanar, Demilich, Dread Lich (also for Nati)
+  * Applied additional sprites for Gigor.
+
 * Scenarios:
   * S1 - A New Chance:
     * Added first-time recruit help for Rogue Mage.
   * S6 - Crelanu's Book:
     * Removed some opening prose because too long.
     * Added book item image.
+  * S7x - Orcish Alliance:
+    * New cutscene scenario.
   * S9 - Underground River:
     * Added an objective note regarding the drowning of living units.
+  * S10 - Return to the Northlands:
+    * Tried a revision, though work in progress.
+  * S12 - Assault on Alduin:
+    * Tried a revision, though work in progress.
+  * S14 - Ambush:
+    * Tried a revision, though work in progress.
+  * S15 - The Crown Prince:
+    * Tried a revision, though work in progress.
+
+* Units:
+  * Applied additional sprites for Gigor.
 
 
 Version 1.2.1:
