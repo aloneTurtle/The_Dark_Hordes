@@ -1,8 +1,8 @@
 The Dark Hordes - Changelog
 ===========================
 
-Version 1.2.1-dev:
-------------------
+Version 1.2.2:
+--------------
 * General:
   * Started supporting Wesnoth 1.19.
   * Fixed the total number of scenarios in the description.
