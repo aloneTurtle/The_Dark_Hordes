@@ -9,7 +9,7 @@ A copy of the GNU General Public License is provided in COPYING.
 Original Unique Art (CC BY-NC-SA 4.0)
 -------------------------------------
 
-Copyright (C) 2025 by Tsunami_
+Copyright (C) 2025 - 2026 by Tsunami_
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-sa/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
@@ -20,11 +20,12 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
  * images/portraits/nati-deathmaster.png
  * images/portraits/nati-demilich.png
  * images/portraits/nati-dread-lich.png
+ * images/portraits/susanne.png
 
 After the Storm Art (CC BY-NC-ND 4.0)
 -------------------------------------
 
-Copyright (C) 2006 - 2025 by Iris Morelle <shadowm@wesnoth.org>
+Copyright (C) 2006 - 2026 by Iris Morelle <shadowm@wesnoth.org>
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-nd/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
