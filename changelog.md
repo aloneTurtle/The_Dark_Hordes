@@ -3,6 +3,8 @@ The Dark Hordes - Changelog
 
 Version 1.2.2-dev:
 ------------------
+* Graphics:
+  * New portraits: Susanne
 
 
 Version 1.2.2:
